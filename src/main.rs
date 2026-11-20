@@ -12,7 +12,7 @@ mod subtitles;
 
 use std::path::PathBuf;
 
-pub const APP_NAME: &str = "Lab Video Player";
+pub const APP_NAME: &str = "LabVideo";
 
 fn main() -> eframe::Result<()> {
     let mut screenshot: Option<PathBuf> = None;
