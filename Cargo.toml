@@ -1,11 +1,11 @@
 [package]
-name = "lab-video-player"
-version = "0.1.1"
+name = "LabVideo"
+version = "0.1.2"
 edition = "2021"
-description = "Lab Video Player - a desktop media player"
+description = "LabVideo - a desktop media player"
 
 [[bin]]
-name = "lab-video-player"
+name = "LabVideo"
 path = "src/main.rs"
 
 [dependencies]
